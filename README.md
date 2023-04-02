@@ -1,7 +1,9 @@
 # UIFlow_AI_Stackchan
 robo8080さんの[M5Unified_StackChan_ChatGPT](https://github.com/robo8080/M5Unified_StackChan_ChatGPT)のUIFlow版を作ろうとしています。  
 現時点ではUIFlowのWEBエディタからテキストで質問を入力し、それに対する回答をM5Core2で喋らせるところまでできます。  
-<img src=https://user-images.githubusercontent.com/67863963/229351909-7328d001-82d2-4651-819b-8c496433f2af.png width=300>
+<img src=https://user-images.githubusercontent.com/67863963/229351909-7328d001-82d2-4651-819b-8c496433f2af.png width=300>  
+↓動かしている様子  
+https://twitter.com/shi78ge/status/1642442808182308864  
 
 ## 動作確認済みの環境  
 - M5Stack Core2
