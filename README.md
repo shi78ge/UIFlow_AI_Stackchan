@@ -53,4 +53,4 @@ https://sozorablog.com/raspberry-pi-pico-w-chatgpt/
 https://qiita.com/to_obara/items/d8d5c92c2ea85a197e2d  
   
 - 自作モジュール用のUI Flowのカスタムブロックを作る  
-https://twitter.com/shi78ge/status/1642442808182308864
+https://qiita.com/ciniml/items/618899c9065d51d5c54e
